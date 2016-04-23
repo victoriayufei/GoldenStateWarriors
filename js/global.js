@@ -1,6 +1,4 @@
-/**
- * Created by Michaelhua on 2016/4/18.
- */
+
 var sliderValue=1;
 var gameIdBase=41400140;
 var matchSeriesId=8;

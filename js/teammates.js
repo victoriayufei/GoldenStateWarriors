@@ -1,10 +1,4 @@
-/**
- * Created by Michaelhua on 2016/4/22.
- */
 
-/**
- * Created by Michaelhua on 2016/4/21.
- */
 var show1=false;
 var show2=false;
 $("#player1-img").click(function(){

@@ -1,6 +1,4 @@
-/**
- * Created by achchg on 4/14/16.
- */
+
 /**
  * Create and configure NBA shot charts for offense and defense.
  *

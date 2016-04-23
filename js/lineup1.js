@@ -1,6 +1,4 @@
-/**
- * Created by pc on 4/18/2016.
- */
+
 function updatelineup1() {
 
     //draw lineup
